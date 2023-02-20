@@ -82,4 +82,11 @@ Finally, Francesco wants to embed your model in a web application, to allow for 
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+
+Non dovrebbero essere necessarie particolari istruzioni per eseguire il codice.
+
+Nella repository è presente un file 'envirionment.yml' con tutte le librerie che ho usato 
+
+Nel file Task_1_and_2 alcune righe di codice sono commentate, possono servire se si vogliono avere ulteriori informazioni sui dati con cui si sta lavorando.
+
+Attenzione: Nel file Task_3_pipeline, nel paragrafo **Pipeline for numerical features** se si scommenta #('remove_error', RemoveError()), la pipeline non funzionerà.
